@@ -27,3 +27,7 @@ End Date: August 16, 2025
 Problems Solved:
 1. [Two Sum](https://leetcode.com/problems/two-sum) 
    ➤ Implemented using HashMap in efficient way.
+2. [Max subarray](https://leetcode.com/problems/maximum-subarray)
+   ➤ Implemented using Kadane's Algorithm with Time Complexity  O(n)
+3. [Remove Duplicate Elements](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+   ➤ Implemented using Two Pointers with Time Complexity  O(n)
