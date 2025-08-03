@@ -35,8 +35,8 @@ Problems Solved:
 ---
 📘 Day 2 - August 3, 2025
 Problems Solved:
-1. https://surli.cc/eyzccs
-2. https://surl.lu/jvaxkt
-3. https://surl.li/swnsnx
+1. [Product of array except self]https://surli.cc/eyzccs
+2. [Valid Palindrome]https://surl.lu/jvaxkt
+3. [Best time to buy and sell stocks]https://surl.li/swnsnx
 
 
