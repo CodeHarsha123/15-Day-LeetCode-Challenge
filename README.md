@@ -31,6 +31,7 @@ Problems Solved:
 
 ---
 📘 Day 2 - August 3, 2025
+
 Problems Solved:
 1. [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) 
 2. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
