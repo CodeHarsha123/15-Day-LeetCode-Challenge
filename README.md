@@ -35,8 +35,10 @@ Problems Solved:
 ---
 📘 Day 2 - August 3, 2025
 Problems Solved:
-1. [Product of array except self]https://surli.cc/eyzccs
-2. [Valid Palindrome]https://surl.lu/jvaxkt
-3. [Best time to buy and sell stocks]https://surl.li/swnsnx
+1. [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) 
+2. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+3. [Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+
+
 
 
