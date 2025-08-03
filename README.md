@@ -31,3 +31,12 @@ Problems Solved:
    ➤ Implemented using Kadane's Algorithm with Time Complexity  O(n)
 3. [Remove Duplicate Elements](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
    ➤ Implemented using Two Pointers with Time Complexity  O(n)
+
+---
+📘 Day 2 - August 3, 2025
+Problems Solved:
+1. https://surli.cc/eyzccs
+2. https://surl.lu/jvaxkt
+3. https://surl.li/swnsnx
+
+
