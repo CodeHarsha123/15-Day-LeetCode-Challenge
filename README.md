@@ -37,6 +37,14 @@ Problems Solved:
 2. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 3. [Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 
+---
+📘 Day 3 - August 4, 2025
+
+Problems Solved:
+1. [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) 
+2. [group-anagrams](https://leetcode.com/problems/group-anagrams)
+3. [valid-anagram](https://leetcode.com/problems/valid-anagram)
+
 
 
 
