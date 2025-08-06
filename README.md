@@ -49,17 +49,17 @@ Problems Solved:
 📘 Day 4 - August 5, 2025
 
 Problems Solved:
-1. [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) 
-2. [group-anagrams](https://leetcode.com/problems/group-anagrams)
-3. [valid-anagram](https://leetcode.com/problems/valid-anagram)
+1. [valid-parentheses](https://leetcode.com/problems/valid-parentheses) 
+2. [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)
+3. [subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)
 
 ---
 📘 Day 5 - August 6, 2025
 
 Problems Solved:
-1. [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) 
-2. [group-anagrams](https://leetcode.com/problems/group-anagrams)
-3. [valid-anagram](https://leetcode.com/problems/valid-anagram)
+1. [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water) 
+2. [binary-search](https://leetcode.com/problems/binary-search)
+3. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)
 
 
 
