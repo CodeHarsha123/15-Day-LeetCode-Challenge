@@ -45,6 +45,22 @@ Problems Solved:
 2. [group-anagrams](https://leetcode.com/problems/group-anagrams)
 3. [valid-anagram](https://leetcode.com/problems/valid-anagram)
 
+---
+📘 Day 4 - August 5, 2025
+
+Problems Solved:
+1. [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) 
+2. [group-anagrams](https://leetcode.com/problems/group-anagrams)
+3. [valid-anagram](https://leetcode.com/problems/valid-anagram)
+
+---
+📘 Day 5 - August 6, 2025
+
+Problems Solved:
+1. [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) 
+2. [group-anagrams](https://leetcode.com/problems/group-anagrams)
+3. [valid-anagram](https://leetcode.com/problems/valid-anagram)
+
 
 
 
