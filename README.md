@@ -61,6 +61,13 @@ Problems Solved:
 2. [binary-search](https://leetcode.com/problems/binary-search)
 3. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)
 
+---
+📘 Day 6 - August 7, 2025
+
+Problems Solved:
+1. [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water) 
+2. [binary-search](https://leetcode.com/problems/binary-search)
+3. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)
 
 
 
