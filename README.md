@@ -65,9 +65,9 @@ Problems Solved:
 📘 Day 6 - August 7, 2025
 
 Problems Solved:
-1. [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water) 
-2. [binary-search](https://leetcode.com/problems/binary-search)
-3. [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)
+1. [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) 
+2. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+3. [search-insert-position](https://leetcode.com/problems/search-insert-position)
 
 
 
