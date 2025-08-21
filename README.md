@@ -77,3 +77,10 @@ Problems Solved:
 2. [add-two-integers](https://leetcode.com/problems/add-two-integers)
 3. [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)
 
+---
+📘 Day 17 - August 21, 2025
+
+Problems Solved:
+1. [contains-duplicate](https://leetcode.com/problems/contains-duplicate) 
+2. [missing-number](https://leetcode.com/problems/missing-number)
+3. [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)
