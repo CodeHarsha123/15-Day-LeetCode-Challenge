@@ -69,5 +69,11 @@ Problems Solved:
 2. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 3. [search-insert-position](https://leetcode.com/problems/search-insert-position)
 
+---
+📘 Day 16 - August 20, 2025
 
+Problems Solved:
+1. [move-zeroes](https://leetcode.com/problems/move-zeroes) 
+2. [add-two-integers](https://leetcode.com/problems/add-two-integers)
+3. [concatenation-of-array](https://leetcode.com/problems/concatenation-of-array)
 
